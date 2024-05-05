@@ -67,7 +67,7 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           script: |
             rm -rf /cse/web/research/raivn/*
-            # mv ~/public.zip /cse/web/research/raivn/public.zip
-            # cd /cse/web/research/raivn
-            # unzip public.zip
-            # rm public.zip
+            mv ~/public.zip /cse/web/research/raivn/public.zip
+            cd /cse/web/research/raivn
+            unzip public.zip
+            rm public.zip
