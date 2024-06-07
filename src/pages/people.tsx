@@ -161,13 +161,6 @@ export default function Home() {
                 website="https://amitakamath.github.io/"
               />
               <Person
-                name="Aditya Kusupati"
-                title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi & Sham Kakade"
-                image="/aditya-2.jpg"
-                website="http://adityakusupati.com"
-              />
-              <Person
                 name="Nabil Omi"
                 title="Ph.D. Student, 2024 - Now"
                 additional="Advisor: Ali Farhadi"
@@ -268,6 +261,14 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Aditya Kusupati"
+                title="Ph.D. Student, 2019 - 2024"
+                additional="Advisors: Ali Farhadi & Sham Kakade"
+                next="Research Scientist, Google DeepMind"
+                image="/aditya-2.jpg"
+                website="http://adityakusupati.com"
+              />
               <Person
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
