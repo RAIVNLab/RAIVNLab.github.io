@@ -256,6 +256,13 @@ export default function Home() {
                 image="/ethan.jpg"
                 website="https://ethanlshen.github.io/"
               />
+            <Person
+                name="Javon Hickmon"
+                title="MS Student, 2024 - Now"
+                additional="Advisor: Sarah Pratt"
+                image="/javon.jpg"
+                website="https://javon.dev/"
+              />
             </div>
           </div>
           <div className="px-5">
