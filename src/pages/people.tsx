@@ -95,19 +95,6 @@ export default function Home() {
                 />
               </div>
             </div>
-            <div>
-              <h3 className="h3 ml-2">Postdocs</h3>
-              <div className="ml-2 -mr-2 grid grid-cols-2">
-                <Person
-                  name="Wei-Chiu Ma"
-                  title="Postdoc"
-                  email="weichium [at] allenai.org"
-                  image="/weichiu.jpg"
-                  website="https://people.csail.mit.edu/weichium/"
-                />
-              </div>
-            </div>
-          </div>
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Ph.D. Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
@@ -268,6 +255,15 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+
+              <Person
+                name="Wei-Chiu Ma"
+                title="Postdoc, 2023 - 2024"
+                additional="Advisors: Ali Farhadi & Ranjay Krishna"
+                next="Assistant Professor, Cornell University"
+                image="/weichiu.jpg"
+                website="https://www.cs.cornell.edu/~weichiu/"
+              />
               <Person
                 name="Aditya Kusupati"
                 title="Ph.D. Student, 2019 - 2024"
@@ -423,7 +419,7 @@ export default function Home() {
                 additional="Advisors: Ali Farhadi & Luke Zettelmoyer"
                 next="Assistant Professor, University of Pennsylvania"
                 image="/mark-2.jpg"
-                website="http://markyatskar.com/"
+                website="https://www.cis.upenn.edu/~myatskar/"
               />
 
               <Person
@@ -448,7 +444,7 @@ export default function Home() {
                 name="Min Sun"
                 title="Postdoc, 2013 - 2014"
                 additional="Advisors: Ali Farhadi, Steve Seitz & Ben Taskar"
-                next="Assistant Professor, National Tsing Hua University"
+                next="Associate Professor, National Tsing Hua University"
                 image="/min-sun.jpg"
                 website="http://aliensunmin.github.io/"
               />
