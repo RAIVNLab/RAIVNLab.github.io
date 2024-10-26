@@ -198,13 +198,6 @@ export default function Home() {
                 website="https://github.com/YashasSamaga"
               />
               <Person
-                name="Sebastin Santy"
-                title="Ph.D. Student, 2021 - Now"
-                additional="Advisor: Ranjay Krishna"
-                image="/ss.jpg"
-                website="https://sebastinsanty.com/"
-              />
-              <Person
                 name="Matt Wallingford"
                 title="Ph.D. Student, 2019 - Now"
                 additional="Advisor: Ali Farhadi"
@@ -240,7 +233,7 @@ export default function Home() {
             <Person
                 name="Ethan Shen"
                 title="BS Student, 2023 - Now"
-                additional="Advisor: Aditya Kusupati"
+                additional="Advisor: Matt Wallingford, Aditya Kusupati"
                 image="/ethan.jpg"
                 website="https://ethanlshen.github.io/"
               />
