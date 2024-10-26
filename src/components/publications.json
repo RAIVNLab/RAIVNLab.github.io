@@ -60,12 +60,32 @@
       "Ali Farhadi",
       "Prateek Jain"
     ],
-    "year": "preprint",
-    "venue": null,
+    "year": "2024",
+    "venue": "NeurIPS 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2310.07707"
     },
     "thumbnail": "/matformer.png"
+  },
+  {
+    "title": "MatFormer: Nested Transformer for Elastic Inference",
+    "authors": [
+      "Ethan Shen",
+      "Alan Fan",
+      "Sarah Pratt",
+      "Jae Sung Park",
+      "Matthew Wallingford",
+      "Sham M. Kakade",
+      "Ari Holtzman",
+      "Ranjay Krishna",
+      "Ali Farhadi",
+      "Aditya Kusupati"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2405.18400"
+    },
   },
   {
     "title": "Objaverse-XL: A Universe of 10M+ 3D Objects",
