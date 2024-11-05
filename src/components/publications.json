@@ -1,5 +1,72 @@
 [
   {
+    "title": "EcoAssistant: Using LLM Assistant More Affordably and Accurately",
+    "authors": [
+      "Jieyu Zhang",
+      "Ranjay Krishna",
+      "Ahmed H. Awadallah",
+      "Chi Wang"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2310.03046",
+      "code": "https://github.com/JieyuZ2/EcoAssistant"
+    },
+    "thumbnail": "/ecoassistant.png"
+  },
+  {
+    "title": "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models",
+    "authors": [
+      "Cheng-Yu Hsieh",
+      "Si-An Chen",
+      "Chun-Liang Li",
+      "Yasuhisa Fujii",
+      "Alexander Ratner",
+      "Chen-Yu Lee",
+      "Ranjay Krishna",
+      "Tomas Pfister"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/abs/2308.00675"
+    }
+  },
+  {
+    "title": "MIMIC: Masked Image Modeling with Image Correspondences",
+    "authors": [
+      "Kalyani Marathe",
+      "Mahtab Bigverdi",
+      "Nishat Khan",
+      "Tuhin Kundu",
+      "Aniruddha Kembhavi",
+      "Linda G. Shapiro",
+      "Ranjay Krishna"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/pdf/2306.15128.pdf",
+      "code": "https://github.com/RAIVNLab/MIMIC"
+    }
+  },
+  {
+    "title": "Cultural and Linguistic Diversity Improves Visual Representations",
+    "authors": [
+      "Andre Ye",
+      "Sebastin Santy",
+      "Jena D. Hwang",
+      "Amy X. Zhang",
+      "Ranjay Krishna"
+    ],
+    "year": "preprint",
+    "venue": null,
+    "links": {
+      "pdf": "https://arxiv.org/pdf/2310.14356.pdf"
+    }
+  },
+  {
     "title": "Improving Multimodal Datasets with Image Captioning",
     "authors": [
       "Thao Nguyen",
