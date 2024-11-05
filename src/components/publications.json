@@ -1,5 +1,71 @@
 [
   {
+    "title": "Training Language Model Agents without Modifying Language Models",
+    "authors": [
+      "Shaokun Zhang*",
+      "Jieyu Zhang*",
+      "Jiale Liu",
+      "Linxin Song",
+      "Chi Wang",
+      "Ranjay Krishna",
+      "Qingyun Wu"
+    ],
+    "year": "2024",
+    "venue": "ICML 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2402.11359"
+    },
+  },
+  {
+    "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
+    "authors": [
+      "Chenhao Zheng",
+      "Jieyu Zhang",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CVPR 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.02145"
+    },
+  },
+  {
+    "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
+    "authors": [
+      "Mohammadreza Salehi",
+      "Sachin Mehta",
+      "Aditya Kusupati",
+      "Ali Farhadi",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": "2023",
+    "venue": "EMNLP Findings 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2310.12126"
+    },
+  },
+  {
+    "title": "MatFormer: Nested Transformer for Elastic Inference",
+    "authors": [
+      "Ethan Shen",
+      "Alan Fan",
+      "Sarah Pratt",
+      "Jae Sung Park",
+      "Matthew Wallingford",
+      "Sham M. Kakade",
+      "Ari Holtzman",
+      "Ranjay Krishna",
+      "Ali Farhadi",
+      "Aditya Kusupati"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2405.18400"
+    },
+  },
+  {
     "title": "EcoAssistant: Using LLM Assistant More Affordably and Accurately",
     "authors": [
       "Jieyu Zhang",
