@@ -1,5 +1,55 @@
 [
   {
+    "title": "Improving Multimodal Datasets with Image Captioning",
+    "authors": [
+      "Thao Nguyen",
+      "Samir Yitzhak Gadre",
+      "Gabriel Ilharco",
+      "Sewoong Oh",
+      "Ludwig Schmidt"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.10350"
+    }
+  },
+  {
+    "title": "AdANNS: A Framework for Adaptive Semantic Search",
+    "authors": [
+      "Aniket Rege",
+      "Aditya Kusupati",
+      "Sharan Ranjit S",
+      "Alan Fan",
+      "Qingqing Cao",
+      "Sham Kakade",
+      "Prateek Jain",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2305.19435",
+      "code": "https://github.com/RAIVNLab/AdANNS"
+    }
+  },
+  {
+    "title": "Stable and low-precision training for large-scale vision-language models",
+    "authors": [
+      "Mitchell Wortsman",
+      "Tim Dettmers",
+      "Luke Zettlemoyer",
+      "Ari Morcos",
+      "Ali Farhadi",
+      "Ludwig Schmidt"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2304.13013"
+    }
+  },
+  {
     "title": "Neural Priming for Sample-Efficient Adaptation",
     "authors": [
       "Matthew Wallingford",
