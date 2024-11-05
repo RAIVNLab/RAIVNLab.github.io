@@ -1,4 +1,183 @@
 [
+  /*
+     {
+    "title": "Training Language Model Agents without Modifying Language Models",
+    "authors": [
+      "Shaokun Zhang*",
+      "Jieyu Zhang*",
+      "Jiale Liu",
+      "Linxin Song",
+      "Chi Wang",
+      "Ranjay Krishna",
+      "Qingyun Wu"
+    ],
+    "year": "2024",
+    "venue": "ICML 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2402.11359"
+    },
+  },
+  {
+    "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
+    "authors": [
+      "Chenhao Zheng",
+      "Jieyu Zhang",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CVPR 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.02145"
+    },
+  },
+  {
+    "title": "On the Connection between Pre-training Data Diversity and Fine-tuning Robustness",
+    "authors": [
+      "Vivek Ramanujan",
+      "Thao Nguyen",
+      "Sewoong Oh",
+      "Ludwig Schmidt",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.12532"
+    },
+  },
+  {
+    "title": "OBJECT 3DIT: Language-guided 3D-aware Image Editing",
+    "thumbnail": "/rotate.gif",
+    "authors": [
+      "Oscar Michel",
+      "Anand Bhattad",
+      "Eli VanderBilt",
+      "Ranjay Krishna",
+      "Aniruddha Kembhavi",
+      "Tanmay Gupta"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.11073",
+      "project page": "https://prior.allenai.org/projects/object-edit"
+    },
+    "imageWidth": "calc(7/12*100%)"
+  },
+  {
+    "title": "Objaverse-XL: A Universe of 10M+ 3D Objects",
+    "authors": [
+      "Matt Deitke",
+      "Ruoshi Liu",
+      "Matthew Wallingford",
+      "Huong Ngo",
+      "Oscar Michel",
+      "Aditya Kusupati",
+      "Alan Fan",
+      "Christian Laforte",
+      "Vikram Voleti",
+      "Samir Yitzhak Gadre",
+      "Eli VanderBilt",
+      "Aniruddha Kembhavi",
+      "Carl Vondrick",
+      "Georgia Gkioxari",
+      "Kiana Ehsani",
+      "Ludwig Schmidt",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.05663",
+      "code": "https://github.com/allenai/objaverse-xl",
+      "project page": "https://objaverse.allenai.org/"
+    },
+    "thumbnail": "/objaverse-xl.jpg"
+  },
+   {
+    "title": "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality",
+    "authors": [
+      "Cheng-Yu Hsieh*",
+      "Jieyu Zhang*",
+      "Zixian Ma",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2306.14610",
+      "code": "https://github.com/RAIVNLab/sugar-crepe"
+    },
+    "thumbnail": "/sugar-crepe.jpg"
+  },
+  {
+    "title": "DataComp: In search of the next generation of multimodal datasets",
+    "authors": [
+      "Samir Yitzhak Gadre",
+      "Gabriel Ilharco",
+      "Alex Fang",
+      "Jonathan Hayase",
+      "Georgios Smyrnis",
+      "Thao Nguyen",
+      "Ryan Marten",
+      "Mitchell Wortsman",
+      "Dhruba Ghosh",
+      "Jieyu Zhang",
+      "Eyal Orgad",
+      "Rahim Entezari",
+      "Giannis Daras",
+      "Sarah Pratt",
+      "Vivek Ramanujan",
+      "Yonatan Bitton",
+      "Kalyani Marathe",
+      "Stephen Mussmann",
+      "Richard Vencu",
+      "Mehdi Cherti",
+      "Ranjay Krishna",
+      "Pang Wei Koh",
+      "Olga Saukh",
+      "Alexander Ratner",
+      "Shuran Song",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi",
+      "Romain Beaumont",
+      "Sewoong Oh",
+      "Alex Dimakis",
+      "Jenia Jitsev",
+      "Yair Carmon",
+      "Vaishaal Shankar",
+      "Ludwig Schmidt."
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2304.14108",
+      "project page": "https://datacomp.ai/"
+    },
+    "thumbnail": "/datacomp.jpg"
+  },
+  {
+    "title": "MADLAD-400: Monolingual And Document-level Large Audited Dataset",
+    "authors": [
+      "Sneha Kudugunta",
+      "Isaac Rayburn Caswell",
+      "Biao Zhang",
+      "Xavier Garcia",
+      "Derrick Xin",
+      "Aditya Kusupati",
+      "Romi Stella",
+      "Ankur Bapna",
+      "Orhan Firat"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2309.04662"
+    }
+  },
+  */
   {
     "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
     "authors": [
