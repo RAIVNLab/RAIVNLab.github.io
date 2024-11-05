@@ -1,5 +1,256 @@
 [
   {
+    "title": "Training Language Model Agents without Modifying Language Models",
+    "authors": [
+      "Shaokun Zhang*",
+      "Jieyu Zhang*",
+      "Jiale Liu",
+      "Linxin Song",
+      "Chi Wang",
+      "Ranjay Krishna",
+      "Qingyun Wu"
+    ],
+    "year": "2024",
+    "venue": "ICML 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2402.11359"
+    },
+  },
+  {
+    "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
+    "authors": [
+      "Chenhao Zheng",
+      "Jieyu Zhang",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CVPR 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.02145"
+    },
+  },
+  {
+    "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
+    "authors": [
+      "Mohammadreza Salehi",
+      "Sachin Mehta",
+      "Aditya Kusupati",
+      "Ali Farhadi",
+      "Hannaneh Hajishirzi"
+    ],
+    "year": "2023",
+    "venue": "EMNLP Findings 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2310.12126"
+    },
+  },
+  {
+    "title": "MatFormer: Nested Transformer for Elastic Inference",
+    "authors": [
+      "Ethan Shen",
+      "Alan Fan",
+      "Sarah Pratt",
+      "Jae Sung Park",
+      "Matthew Wallingford",
+      "Sham M. Kakade",
+      "Ari Holtzman",
+      "Ranjay Krishna",
+      "Ali Farhadi",
+      "Aditya Kusupati"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2405.18400"
+    },
+  },
+  {
+    "title": "Objaverse-XL: A Universe of 10M+ 3D Objects",
+    "authors": [
+      "Matt Deitke",
+      "Ruoshi Liu",
+      "Matthew Wallingford",
+      "Huong Ngo",
+      "Oscar Michel",
+      "Aditya Kusupati",
+      "Alan Fan",
+      "Christian Laforte",
+      "Vikram Voleti",
+      "Samir Yitzhak Gadre",
+      "Eli VanderBilt",
+      "Aniruddha Kembhavi",
+      "Carl Vondrick",
+      "Georgia Gkioxari",
+      "Kiana Ehsani",
+      "Ludwig Schmidt",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.05663",
+      "code": "https://github.com/allenai/objaverse-xl",
+      "project page": "https://objaverse.allenai.org/"
+    },
+    "thumbnail": "/objaverse-xl.jpg"
+  },
+  {
+    "title": "SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality",
+    "authors": [
+      "Cheng-Yu Hsieh*",
+      "Jieyu Zhang*",
+      "Zixian Ma",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2306.14610",
+      "code": "https://github.com/RAIVNLab/sugar-crepe"
+    },
+    "thumbnail": "/sugar-crepe.jpg"
+  },
+  {
+    "title": "DataComp: In search of the next generation of multimodal datasets",
+    "authors": [
+      "Samir Yitzhak Gadre",
+      "Gabriel Ilharco",
+      "Alex Fang",
+      "Jonathan Hayase",
+      "Georgios Smyrnis",
+      "Thao Nguyen",
+      "Ryan Marten",
+      "Mitchell Wortsman",
+      "Dhruba Ghosh",
+      "Jieyu Zhang",
+      "Eyal Orgad",
+      "Rahim Entezari",
+      "Giannis Daras",
+      "Sarah Pratt",
+      "Vivek Ramanujan",
+      "Yonatan Bitton",
+      "Kalyani Marathe",
+      "Stephen Mussmann",
+      "Richard Vencu",
+      "Mehdi Cherti",
+      "Ranjay Krishna",
+      "Pang Wei Koh",
+      "Olga Saukh",
+      "Alexander Ratner",
+      "Shuran Song",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi",
+      "Romain Beaumont",
+      "Sewoong Oh",
+      "Alex Dimakis",
+      "Jenia Jitsev",
+      "Yair Carmon",
+      "Vaishaal Shankar",
+      "Ludwig Schmidt."
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2304.14108",
+      "project page": "https://datacomp.ai/"
+    },
+    "thumbnail": "/datacomp.jpg"
+  },
+  {
+    "title": "On the Connection between Pre-training Data Diversity and Fine-tuning Robustness",
+    "authors": [
+      "Vivek Ramanujan",
+      "Thao Nguyen",
+      "Sewoong Oh",
+      "Ludwig Schmidt",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.12532"
+    },
+  },
+  {
+    "title": "OBJECT 3DIT: Language-guided 3D-aware Image Editing",
+    "thumbnail": "/rotate.gif",
+    "authors": [
+      "Oscar Michel",
+      "Anand Bhattad",
+      "Eli VanderBilt",
+      "Ranjay Krishna",
+      "Aniruddha Kembhavi",
+      "Tanmay Gupta"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2307.11073",
+      "project page": "https://prior.allenai.org/projects/object-edit"
+    },
+    "imageWidth": "calc(7/12*100%)"
+  },
+  {
+    "title": "MADLAD-400: Monolingual And Document-level Large Audited Dataset",
+    "authors": [
+      "Sneha Kudugunta",
+      "Isaac Rayburn Caswell",
+      "Biao Zhang",
+      "Xavier Garcia",
+      "Derrick Xin",
+      "Aditya Kusupati",
+      "Romi Stella",
+      "Ankur Bapna",
+      "Orhan Firat"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2309.04662"
+    }
+  },
+  {
+    "title": "Neural Priming for Sample-Efficient Adaptation",
+    "authors": [
+      "Matthew Wallingford",
+      "Vivek Ramanujan",
+      "Alex Fang",
+      "Aditya Kusupati",
+      "Roozbeh Mottaghi",
+      "Aniruddha Kembhavi",
+      "Ludwig Schmidt",
+      "Ali Farhadi"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2306.10191",
+      "code": "https://github.com/RAIVNLab/neural-priming"
+    }
+  },
+  {
+    "title": "Quilt-1M: One Million Image-Text Pairs for Histopathology",
+    "thumbnail": "/quilt-1m.jpg",
+    "authors": [
+      "Wisdom Oluchi Ikezogwo",
+      "Mehmet Saygin Seyfioglu",
+      "Fatemeh Ghezloo",
+      "Dylan Stefan Chan Geva",
+      "Fatwir Sheikh Mohammed",
+      "Pavan Kumar Anand",
+      "Ranjay Krishna",
+      "Linda Shapiro"
+    ],
+    "year": "2023",
+    "venue": "NeurIPS 2023",
+    "links": {
+      "pdf": "http://arxiv.org/abs/2306.11207",
+      "code": "https://github.com/wisdomikezogwo/quilt1m"
+    }
+  },
+  {
     "title": "Cola: How to adapt vision-language models to Compose Objects Localized with Attributes?",
     "authors": [
       "Arijit Ray",
@@ -2722,6 +2973,4 @@
       "pdf": "https://homes.cs.washington.edu/~ali/papers/ASL_CVPR06.pdf"
     }
   }
-]
-
 ]
