@@ -48,28 +48,6 @@
   {
     "title": "MatFormer: Nested Transformer for Elastic Inference",
     "authors": [
-      "Devvrit*",
-      "Sneha Kudugunta*",
-      "Aditya Kusupati*",
-      "Tim Dettmers",
-      "Kaifeng Chen",
-      "Inderjit Dhillon",
-      "Yulia Tsvetkov",
-      "Hannaneh Hajishirzi",
-      "Sham Kakade",
-      "Ali Farhadi",
-      "Prateek Jain"
-    ],
-    "year": "2024",
-    "venue": "NeurIPS 2024",
-    "links": {
-      "pdf": "https://arxiv.org/abs/2310.07707"
-    },
-    "thumbnail": "/matformer.png"
-  },
-  {
-    "title": "MatFormer: Nested Transformer for Elastic Inference",
-    "authors": [
       "Ethan Shen",
       "Alan Fan",
       "Sarah Pratt",
