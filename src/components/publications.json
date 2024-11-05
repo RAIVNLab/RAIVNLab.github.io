@@ -14,7 +14,7 @@
     "venue": "ICML 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2402.11359"
-    }
+    },
   },
    {
     "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
@@ -28,7 +28,7 @@
     "venue": "CVPR 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2404.02145"
-    }
+    },
   },
   {
     "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
@@ -43,7 +43,7 @@
     "venue": "EMNLP Findings 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2310.12126"
-    }
+    },
   },
   {
     "title": "MatFormer: Nested Transformer for Elastic Inference",
@@ -193,7 +193,7 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2307.12532"
-    }
+    },
   },
   {
     "title": "OBJECT 3DIT: Language-guided 3D-aware Image Editing",
