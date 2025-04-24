@@ -1,6 +1,6 @@
 [
   {
-    "title": "Training Language Model Agents without Modifying Language Models",
+    "title": "Offline Training of Language Model Agents with Functions as Learnable Weights",
     "authors": [
       "Shaokun Zhang*",
       "Jieyu Zhang*",
@@ -14,7 +14,8 @@
     "venue": "ICML 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2402.11359"
-    }
+    },
+    "thumbnail": "/offline.png"
   },
   {
     "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
@@ -28,7 +29,8 @@
     "venue": "CVPR 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2404.02145"
-    }
+    },
+    "thumbnail": "/iterated.png"
   },
   {
     "title": "On the Connection between Pre-training Data Diversity and Fine-tuning Robustness",
@@ -193,7 +195,7 @@
     }
   },
   {
-    "title": "MatFormer: Nested Transformer for Elastic Inference",
+    "title": "Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass",
     "authors": [
       "Ethan Shen",
       "Alan Fan",
@@ -210,7 +212,8 @@
     "venue": "NeurIPS 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2405.18400"
-    }
+    },
+    "thumbnail": "/superposed.png"
   },
   {
     "title": "EcoAssistant: Using LLM Assistant More Affordably and Accurately",
