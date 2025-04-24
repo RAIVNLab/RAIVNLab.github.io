@@ -89,12 +89,6 @@ export default function HeroHome() {
               </div>
               <div>
                 <img
-                  src="/cvpr2019.jpg"
-                  className="md:w-9/12 mx-auto rounded-md w-11/12"
-                />
-              </div>
-              <div>
-                <img
                   src="/bill-gates.jpg"
                   className="md:w-9/12 mx-auto rounded-md w-11/12"
                 />
