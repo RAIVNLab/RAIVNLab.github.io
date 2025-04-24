@@ -509,7 +509,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2209.03320",
       "code": "https://github.com/sarahpratt/CuPL"
-    }
+    },
+    "thumbnail": "/platypus.png"
   },
   {
     "title": "Agile Modeling: From Concept to Classifier in Minutes",
@@ -537,7 +538,8 @@
     "venue": "ICCV 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2302.12948"
-    }
+    },
+    "thumbnail": "/agile.png"
   },
   {
     "title": "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes",
@@ -556,7 +558,8 @@
     "venue": "ACL 2023 (Findings)",
     "links": {
       "pdf": "https://arxiv.org/pdf/2305.02301"
-    }
+    },
+    "thumbnail": "/distill.png"
   },
   {
     "title": "CREPE: Can Vision-Language Foundation Models Reason Compositionally?",
@@ -628,7 +631,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2304.12289",
       "project page": "https://prior.allenai.org/projects/action-adaptive-policy"
-    }
+    },
+    "thumbnail": "/forward.png"
   },
   {
     "title": "Impossibly Good Experts and How to Follow Them",
@@ -643,7 +647,8 @@
     "venue": "ICLR 2023",
     "links": {
       "pdf": "https://openreview.net/forum?id=sciA_xgYofB"
-    }
+    },
+    "thumbnail": "/experts.png"
   },
   {
     "title": "Neural Radiance Field Codebooks",
@@ -660,7 +665,8 @@
     "venue": "ICLR 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2301.04101"
-    }
+    },
+    "thumbnail": "/nrc.png"
   },
   {
     "title": "Editing Models with Task Arithmetic",
@@ -696,7 +702,8 @@
     "venue": "TMLR",
     "links": {
       "pdf": "https://arxiv.org/abs/2210.11948"
-    }
+    },
+    "thumbnail": "/lofi.png"
   },
   {
     "title": "​Explanations can Reduce Overreliance on AI Systems during Decision-Making",
@@ -712,7 +719,8 @@
     "venue": "CSCW 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2212.06823"
-    }
+    },
+    "thumbnail": "/explanations.png"
   },
   {
     "title": "ELIGN: Expectation Alignment as a Multi-Agent Intrinsic Reward",
