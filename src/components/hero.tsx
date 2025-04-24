@@ -51,6 +51,12 @@ export default function HeroHome() {
                   className="md:w-9/12 mx-auto rounded-md w-11/12"
                 />
               </div>
+              <div>
+                <img
+                  src="/raivn-group6.jpg"
+                  className="md:w-9/12 mx-auto rounded-md w-11/12"
+                />
+              </div>
             <div>
                 <img
                   src="/raivn-group3.jpg"
