@@ -333,7 +333,8 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2304.13013"
-    }
+    },
+    "thumbnail": "/lowpres.png"
   },
   {
     "title": "Neural Priming for Sample-Efficient Adaptation",
@@ -352,7 +353,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2306.10191",
       "code": "https://github.com/RAIVNLab/neural-priming"
-    }
+    },
+    "thumbnail": "/priming.png"
   },
   {
     "title": "Quilt-1M: One Million Image-Text Pairs for Histopathology",
@@ -389,7 +391,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2305.03689",
       "project page": "https://cs-people.bu.edu/array/research/cola/"
-    }
+    },
+    "thumbnail": "/cola.png"
   },
   {
     "title": "AR2-D2:Training a Robot Without a Robot",
@@ -457,7 +460,8 @@
     "venue": "VLDB 2023",
     "links": {
       "pdf": "https://arxiv.org/pdf/2301.00929"
-    }
+    },
+    "thumbnail": "/equivocal.png"
   },
   {
     "title": "Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias",
@@ -476,7 +480,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2306.15895",
       "code": "https://github.com/yueyu1030/AttrPrompt"
-    }
+    },
+    "thumbnail": "/llm_training_data.png"
   },
   {
     "title": "TIFA: Text-to-Image Faithfulness Evaluation with Question Answering",
@@ -494,7 +499,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2303.11897",
       "project page": "https://tifa-benchmark.github.io/"
-    }
+    },
+    "thumbnail": "/tifa.png"
   },
   {
     "title": "What does a platypus look like? Generating customized prompts for zero-shot image classification",
