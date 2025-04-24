@@ -1,6 +1,5 @@
 [
-  /*This is technically not a comment block, but here it goes, some this is wrong in this annotated comment box, rest of the publications work fine, whoever it is please fix it. 
-     {
+  {
     "title": "Training Language Model Agents without Modifying Language Models",
     "authors": [
       "Shaokun Zhang*",
@@ -15,7 +14,7 @@
     "venue": "ICML 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2402.11359"
-    },
+    }
   },
   {
     "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
@@ -29,7 +28,7 @@
     "venue": "CVPR 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2404.02145"
-    },
+    }
   },
   {
     "title": "On the Connection between Pre-training Data Diversity and Fine-tuning Robustness",
@@ -44,7 +43,7 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2307.12532"
-    },
+    }
   },
   {
     "title": "OBJECT 3DIT: Language-guided 3D-aware Image Editing",
@@ -177,7 +176,7 @@
       "pdf": "https://arxiv.org/abs/2309.04662"
     }
   },
-  End of block */
+
   {
     "title": "SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks",
     "authors": [
@@ -191,7 +190,7 @@
     "venue": "EMNLP Findings 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2310.12126"
-    },
+    }
   },
   {
     "title": "MatFormer: Nested Transformer for Elastic Inference",
@@ -211,7 +210,7 @@
     "venue": "NeurIPS 2024",
     "links": {
       "pdf": "https://arxiv.org/abs/2405.18400"
-    },
+    }
   },
   {
     "title": "EcoAssistant: Using LLM Assistant More Affordably and Accurately",
