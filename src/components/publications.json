@@ -1,5 +1,134 @@
 [
   {
+    "title": "Perception Tokens Enhance Visual Reasoning in Multimodal Language Models",
+    "authors": [
+      "Mahtab Bigverdi",
+      "Zelun Luo",
+      "Cheng-Yu Hsieh",
+      "Ethan Shen",
+      "Dongping Chen",
+      "Linda G. Shapiro",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2412.03548"
+    },
+    "thumbnail": "/perctokens.png"
+  },
+  {
+    "title": "REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations",
+    "authors": [
+      "Peter Sushko",
+      "Ayana Bharadwaj",
+      "Zhi Yang Lim",
+      "Vasily Ilin",
+      "Ben Caffee",
+      "Dongping Chen",
+      "Mohammadreza Salehi",
+      "Cheng-Yu Hsieh",
+      "Ranjay Krishna"
+    ],
+    "year": "preprint",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2502.03629"
+    },
+    "thumbnail": "/realedit.png"
+  },  
+  {
+    "title": "Learning to Build by Building Your Own Instructions",
+    "authors": [
+      "Aaron Walsman",
+      "Muru Zhang",
+      "Adam Fishman",
+      "Ali Farhadi",
+      "Dieter Fox"
+    ],
+    "year": "2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2410.01111"
+    },
+    "thumbnail": "/build.png"
+  },
+  {
+    "title": "ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition",
+    "authors": [
+      "Mohammadreza Salehi",
+      "Jae Sung Park",
+      "Tanush Yadav",
+      "Aditya Kusupati",
+      "Ranjay Krishna",
+      "Yejin Choi",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024 Datasets and Benchmarks",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2410.05774"
+    },
+    "thumbnail": "/actionatlas.png"
+  },
+  {
+    "title": "From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos",
+    "authors": [
+      "Matthew Wallingford",
+      "Anand Bhattad",
+      "Aditya Kusupati",
+      "Vivek Ramanujan",
+      "Matt Deitke",
+      "Sham Kakade",
+      "Aniruddha Kembhavi",
+      "Roozbeh Mottaghi",
+      "Wei-Chiu Ma",
+      "Ali Farhadi"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2412.07770"
+    },
+    "thumbnail": "/360.png"
+  },
+  {
+    "title": "The One RING: a Robotic Indoor Navigation Generalist",
+    "authors": [
+      "Ainaz Eftekhar",
+      "Luca Weihs",
+      "Rose Hendrix",
+      "Ege Caglar",
+      "Jordi Salvador",
+      "Alvaro Herrasti",
+      "Winson Han",
+      "Eli VanderBil",
+      "Aniruddha Kembhavi",
+      "Ali Farhadi",
+      "Ranjay Krishna",
+      "Kiana Ehsani",
+      "Kuo-Hao Zeng"
+    ],
+    "year": "preprint",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2412.14401"
+    },
+    "thumbnail": "/ring.png"
+  },
+  {
+    "title": "When Worse is Better: Navigating the compression-generation tradeoff in visual tokenization",
+    "authors": [
+      "Vivek Ramanujan",
+      "Kushal Tirumala",
+      "Armen Aghajanyan",
+      "Luke Zettlemoyer",
+      "Ali Farhadi"
+    ],
+    "year": "preprint",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2412.16326"
+    },
+    "thumbnail": "/worse.png"
+  },
+  {
     "title": "Offline Training of Language Model Agents with Functions as Learnable Weights",
     "authors": [
       "Shaokun Zhang*",
