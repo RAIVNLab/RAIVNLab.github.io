@@ -42,7 +42,6 @@ export default function HeroHome() {
               ></div>
             </div>
           </div>
-
           {/* Hero image */}
           <div className="text-center">
             <Carousel autoplay>
