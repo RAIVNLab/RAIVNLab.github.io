@@ -244,7 +244,8 @@
     "venue": null,
     "links": {
       "pdf": "https://arxiv.org/abs/2308.00675"
-    }
+    },
+    "thumbnail": "/tool.png"
   },
   {
     "title": "MIMIC: Masked Image Modeling with Image Correspondences",
@@ -262,7 +263,8 @@
     "links": {
       "pdf": "https://arxiv.org/pdf/2306.15128.pdf",
       "code": "https://github.com/RAIVNLab/MIMIC"
-    }
+    },
+    "thumbnail": "/mimic.png"
   },
   {
     "title": "Cultural and Linguistic Diversity Improves Visual Representations",
@@ -277,7 +279,8 @@
     "venue": null,
     "links": {
       "pdf": "https://arxiv.org/pdf/2310.14356.pdf"
-    }
+    },
+    "thumbnail": "/cultural.png"
   },
   {
     "title": "Improving Multimodal Datasets with Image Captioning",
