@@ -45,7 +45,8 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2307.12532"
-    }
+    },
+    "thumbnail": "/pretraining.png"
   },
   {
     "title": "OBJECT 3DIT: Language-guided 3D-aware Image Editing",
@@ -176,7 +177,8 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2309.04662"
-    }
+    },
+    "thumbnail": "/madlad.png"
   },
 
   {
@@ -192,7 +194,8 @@
     "venue": "EMNLP Findings 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2310.12126"
-    }
+    },
+    "thumbnail": "/sharcs.png"
   },
   {
     "title": "Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass",
@@ -298,7 +301,8 @@
     "venue": "NeurIPS 2023",
     "links": {
       "pdf": "https://arxiv.org/abs/2307.10350"
-    }
+    },
+    "thumbnail": "/gencap.png"
   },
   {
     "title": "AdANNS: A Framework for Adaptive Semantic Search",
@@ -317,7 +321,8 @@
     "links": {
       "pdf": "https://arxiv.org/abs/2305.19435",
       "code": "https://github.com/RAIVNLab/AdANNS"
-    }
+    },
+    "thumbnail": "/adanns.png"
   },
   {
     "title": "Stable and low-precision training for large-scale vision-language models",
