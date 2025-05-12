@@ -124,7 +124,10 @@
       "Ranjay Krishna"
     ],
     "year": "2025",
-    "venue": "CVPR 2025"
+    "venue": "CVPR 2025",
+    "links": {
+        "pdf": ""
+    }
   },
   {
     "title": "Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation",
