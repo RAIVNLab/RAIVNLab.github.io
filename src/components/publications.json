@@ -10,11 +10,175 @@
       "Linda G. Shapiro",
       "Ranjay Krishna"
     ],
-    "year": "2024",
+    "year": "2025",
+    "venue": "CVPR 2025",
     "links": {
       "pdf": "https://arxiv.org/abs/2412.03548"
     },
     "thumbnail": "/perctokens.png"
+  },
+  {
+    "title": "The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better",
+    "authors": [
+      "Scott Geng",
+      "Cheng-Yu Hsieh",
+      "Vivek Ramanujan",
+      "Matthew Wallingford",
+      "Chun-Liang Li",
+      "Pang Wei Koh",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2406.05184"
+    },
+    "thumbnail": "/unmetpromise.png"
+  },
+  {
+    "title": "AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation",
+    "authors": [
+      "Jiafei Duan",
+      "Wilbert Pumacay",
+      "Nishanth Kumar",
+      "Yi Ru Wang",
+      "Shulin Tian",
+      "Wentao Yuan",
+      "Ranjay Krishna",
+      "Dieter Fox",
+      "Ajay Mandlekar",
+      "Yijie Guo"
+    ],
+    "year": "2025",
+    "venue": "ICLR 2025",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2410.00371"
+    },
+    "thumbnail": "/aha.png"
+  },
+  {
+    "title": "Task Me Anything",
+    "authors": [
+      "Jieyu Zhang",
+      "Weikai Huang",
+      "Zixian Ma",
+      "Oscar Michel",
+      "Dong He",
+      "Tanmay Gupta",
+      "Wei-Chiu Ma",
+      "Ali Farhadi",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2025",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2406.11775"
+    },
+    "thumbnail": "/taskmeanything.png"
+  },
+  {
+    "title": "Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model",
+    "authors": [
+      "Benlin Liu",
+      "Yiqin Wang",
+      "Yuhao Dong",
+      "Yongming Rao",
+      "Yansong Tang",
+      "Wei-Chiu Ma",
+      "Ranjay Krishna"
+    ],
+    "year": "2025",
+    "venue": "CVPR 2025",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2408.00754"
+    },
+    "thumbnail": "/coarsecorrespondences.png"
+  },
+  {
+    "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models",
+    "authors": [
+      "Ai2 + UW"
+    ],
+    "year": "2025",
+    "venue": "CVPR 2025",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2409.17146"
+    },
+    "thumbnail": "/molmopixmo.png"
+  },
+  {
+    "title": "Synthetic Visual Genome",
+    "authors": [
+      "Jae Sung Park",
+      "Zixian Ma",
+      "Linjie Li",
+      "Chenhao Zheng",
+      "Cheng-Yu Hsieh",
+      "Ximing Lu",
+      "Khyathi Chandu",
+      "Quan Kong",
+      "Norimasa Kobori",
+      "Ali Farhadi",
+      "Yejin Choi",
+      "Ranjay Krishna"
+    ],
+    "year": "2025",
+    "venue": "CVPR 2025"
+  },
+  {
+    "title": "Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation",
+    "authors": [
+      "Shivam Duggal",
+      "Yushi Hu",
+      "Oscar Michel",
+      "Aniruddha Kembhavi",
+      "William T. Freeman",
+      "Noah A. Smith",
+      "Ranjay Krishna",
+      "Antonio Torralba",
+      "Ali Farhadi",
+      "Wei-Chiu Ma"
+    ],
+    "year": "2025",
+    "venue": "CVPR 2025",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2504.18509"
+    },
+    "thumbnail": "/eval3d.png"
+  },
+  {
+    "title": "SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation",
+    "authors": [
+      "Haoquan Fang",
+      "Markus Grotz",
+      "Wilbert Pumacay",
+      "Yi Ru Wang",
+      "Dieter Fox",
+      "Ranjay Krishna",
+      "Jiafei Duan"
+    ],
+    "year": "2025",
+    "venue": "ICML 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2501.18564"
+    },
+    "thumbnail": "/sam2act.png"
+  },
+  {
+    "title": "Unsettling the Hegemony of Intention: Agonistic Image Generation",
+    "authors": [
+      "Andrew Shaw",
+      "Andre Ye",
+      "Ranjay Krishna",
+      "Amy X. Zhang"
+    ],
+    "year": "2025",
+    "venue": "Faact 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2502.15242"
+    },
+    "thumbnail": "/agonistic.png"
   },
   {
     "title": "REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations",
@@ -432,6 +596,25 @@
       "pdf": "https://arxiv.org/abs/2307.10350"
     },
     "thumbnail": "/gencap.png"
+  },
+  {
+    "title": "Multilingual Diversity Improves Vision-Language Representations",
+    "authors": [
+      "Thao Nguyen",
+      "Matthew Wallingford",
+      "Sebastin Santy",
+      "Wei-Chiu Ma",
+      "Sewoong Oh",
+      "Ludwig Schmidt",
+      "Pang Wei Koh",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "NeurIPS 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2405.16915"
+    },
+    "thumbnail": "/multilingualdiversity.png"
   },
   {
     "title": "AdANNS: A Framework for Adaptive Semantic Search",
