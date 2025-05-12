@@ -169,6 +169,122 @@
     "thumbnail": "/sam2act.png"
   },
   {
+    "title": "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models",
+    "authors": [
+      "Jiafei Duan",
+      "Wentao Yuan",
+      "Wilbert Pumacay",
+      "Yi Ru Wang",
+      "Kiana Ehsani",
+      "Dieter Fox",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CoRL 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2406.18915"
+    },
+    "thumbnail": "/manipulateanything.png"
+  },
+  {
+    "title": "EVE: Enabling Anyone to Train Robots using Augmented Reality",
+    "authors": [
+      "Jun Wang",
+      "Chun-Cheng Chang",
+      "Jiafei Duan",
+      "Dieter Fox",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "UIST 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.06089"
+    },
+    "thumbnail": "/eve.png"
+  },
+  {
+    "title": "Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion",
+    "authors": [
+      "Xiang Fan",
+      "Anand Bhattad",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "ECCV 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2403.14617"
+    },
+    "thumbnail": "/videoshop.png"
+  },
+  {
+    "title": "Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization",
+    "authors": [
+      "Cheng-Yu Hsieh",
+      "Yung-Sung Chuang",
+      "Chun-Liang Li",
+      "Zifeng Wang",
+      "Long Le",
+      "Abhishek Kumar",
+      "James R. Glass",
+      "Alexander Ratner",
+      "Chen-Yu Lee",
+      "Ranjay Krishna",
+      "Tomas Pfister"
+    ],
+    "year": "2024",
+    "venue": "ACL Findings 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2406.16008"
+    },
+    "thumbnail": "/foundinthemiddle.png"
+  },
+  {
+    "title": "Iterated Learning Improves Compositionality in Large Vision-Language Models",
+    "authors": [
+      "Chenhao Zheng",
+      "Jieyu Zhang",
+      "Aniruddha Kembhavi",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "CVPR 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2404.02145"
+    },
+    "thumbnail": "/iteratedlearning.png"
+  },
+  {
+    "title": "The Hard Positive Truth about Vision-Language Compositionality",
+    "authors": [
+      "Amita Kamath",
+      "Cheng-Yu Hsieh",
+      "Kai-Wei Chang",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "ECCV 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2409.17958"
+    },
+    "thumbnail": "/hardpositivetruth.png"
+  },
+  {
+    "title": "m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks",
+    "authors": [
+      "Zixian Ma",
+      "Weikai Huang",
+      "Jieyu Zhang",
+      "Tanmay Gupta",
+      "Ranjay Krishna"
+    ],
+    "year": "2024",
+    "venue": "ECCV 2024",
+    "links": {
+      "pdf": "https://arxiv.org/abs/2403.11085"
+    },
+    "thumbnail": "/mnms.png"
+  },
+  {
     "title": "Unsettling the Hegemony of Intention: Agonistic Image Generation",
     "authors": [
       "Andrew Shaw",
