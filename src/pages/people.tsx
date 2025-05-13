@@ -218,6 +218,13 @@ export default function Home() {
                 image="/chenhao.jpg"
                 website="https://hellomuffin.github.io/"
               />
+              <Person
+                name="Rustin Soraki"
+                title="Ph.D. Student, 2025 - Now"
+                additional="Advisor: Linda Shapiro & Ali Farhadi"
+                image="/rustin.jpeg"
+                website="https://github.com/RustinS"
+              />
             </div>
           </div>
           <div className="px-5">
