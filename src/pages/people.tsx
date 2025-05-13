@@ -220,7 +220,7 @@ export default function Home() {
               />
               <Person
                 name="Rustin Soraki"
-                title="Ph.D. Student, 2025 - Now"
+                title="Ph.D. Student, 2024 - Now"
                 additional="Advisor: Linda Shapiro & Ali Farhadi"
                 image="/rustin.jpeg"
                 website="https://github.com/RustinS"
