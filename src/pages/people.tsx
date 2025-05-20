@@ -225,6 +225,13 @@ export default function Home() {
                 image="/rustin.jpeg"
                 website="https://github.com/RustinS"
               />
+              <Person
+                name="George Stoica"
+                title="Ph.D Student (Georgia Tech), 2021 - Now"
+                additional="Advisors: Ranjay Krishna & Judy Hoffman"
+                image="/george.jpeg"
+                website="https://gstoica27.github.io/"
+              />
             </div>
           </div>
           <div className="px-5">
@@ -448,13 +455,6 @@ export default function Home() {
                 next="Associate Professor, National Tsing Hua University"
                 image="/min-sun.jpg"
                 website="http://aliensunmin.github.io/"
-              />
-              <Person
-                name="George Stoica"
-                title="Ph.D Student (Georgia Tech), 2021 - Now"
-                additional="Advisors: Ranjay Krishna & Judy Hoffman"
-                image="/george.jpeg"
-                website="https://gstoica27.github.io/"
               />
             </div>
           </div>
