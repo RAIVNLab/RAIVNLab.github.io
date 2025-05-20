@@ -449,6 +449,13 @@ export default function Home() {
                 image="/min-sun.jpg"
                 website="http://aliensunmin.github.io/"
               />
+              <Person
+                name="George Stoica"
+                title="Ph.D Student (Georgia Tech), 2021 - Now"
+                additional="Advisors: Ranjay Krishna & Judy Hoffman"
+                image="/george.jpeg"
+                website="https://gstoica27.github.io/"
+              />
             </div>
           </div>
         </div>
