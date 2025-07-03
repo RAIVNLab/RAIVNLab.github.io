@@ -99,13 +99,7 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Ph.D. Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
-              <Person
-                name="Matt Deitke"
-                title="Ph.D. Student, 2023 - Now"
-                additional="Advisor: Ali Farhadi"
-                image="/matt-deitke.jpg"
-                website="https://mattdeitke.com/"
-              />
+              
               <Person
                 name="Jiafei Duan"
                 title="Ph.D. Student, 2022 - Now"
@@ -161,6 +155,13 @@ export default function Home() {
                 additional="Advisor: Ranjay Krishna & Dan Weld"
                 image="/zixian.jpg"
                 website="https://zixianma.github.io/"
+              />
+              <Person
+                name="Mahtab Bigverdi"
+                title="Ph.D. Student, 2022 - Now"
+                additional="Advisor: Ranjay Krishna & Linda Shapiro"
+                image="/mahtab.jpg"
+                website="https://mahtabbigverdi.github.io/"
               />
               <Person
                 name="James Park"
@@ -263,7 +264,13 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
-
+              <Person
+                name="Matt Deitke"
+                title="Ph.D. Student, 2023 - 2024"
+                additional="Advisor: Ali Farhadi"
+                image="/matt-deitke.jpg"
+                website="https://mattdeitke.com/"
+              />
               <Person
                 name="Wei-Chiu Ma"
                 title="Postdoc, 2023 - 2024"
