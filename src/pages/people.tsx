@@ -237,7 +237,7 @@ export default function Home() {
                   name="Ethan Shen"
                   title="Ph.D. Student, 2025 - Now"
                   additional="Advisor: Ali Farhadi"
-                  image="/ethan.jpg"
+                  image="/ethan.png"
                   website="https://ethanlshen.github.io/"
               />
             </div>
