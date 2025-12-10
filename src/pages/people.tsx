@@ -233,6 +233,13 @@ export default function Home() {
                 image="/george.jpeg"
                 website="https://gstoica27.github.io/"
               />
+              <Person
+                  name="Ethan Shen"
+                  title="Ph.D. Student, 2025 - Now"
+                  additional="Advisor: Ali Farhadi"
+                  image="/ethan.jpg"
+                  website="https://ethanlshen.github.io/"
+              />
             </div>
           </div>
           <div className="px-5">
@@ -244,13 +251,6 @@ export default function Home() {
                 additional="Advisor: Matt Deitke"
                 image="/huong.jpg"
                 website="https://huongngo-8.github.io/"
-              />
-            <Person
-                name="Ethan Shen"
-                title="BS Student, 2023 - Now"
-                additional="Advisor: Matt Wallingford, Aditya Kusupati"
-                image="/ethan.jpg"
-                website="https://ethanlshen.github.io/"
               />
             <Person
                 name="Javon Hickmon"
@@ -268,6 +268,7 @@ export default function Home() {
                 name="Matt Deitke"
                 title="Ph.D. Student, 2023 - 2024"
                 additional="Advisor: Ali Farhadi"
+                next="Meta TBD Labs"
                 image="/matt-deitke.jpg"
                 website="https://mattdeitke.com/"
               />
@@ -291,7 +292,7 @@ export default function Home() {
                 name="Gabriel Ilharco"
                 title="Ph.D. Student, 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Hanna Hajishirzi" 
-                next="Member of Technical Staff, xAI"
+                next="Meta TBD Labs"
                 image="/gabriel.jpg"
                 website="http://gabrielilharco.com/"
               />
@@ -351,7 +352,7 @@ export default function Home() {
                 name="Keunhong Park"
                 title="Ph.D., 2015 - 2022"
                 additional="Advisors: Ali Farhadi & Steve Seitz"
-                next="Research Scientist, Google"
+                next="Research Scientist, World Labs"
                 image="/keunhong.jpg"
                 website="https://keunhong.com/"
               />
