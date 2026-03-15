@@ -164,13 +164,6 @@ export default function Home() {
                 website="https://mahtabbigverdi.github.io/"
               />
               <Person
-                name="James Park"
-                title="Ph.D. Student, 2019 - Now"
-                additional="Advisors: Ali Farhadi & Yejin Choi"
-                image="/james-2.jpg"
-                website="https://homes.cs.washington.edu/~jspark96/"
-              />
-              <Person
                 name="Sarah Pratt"
                 title="Ph.D. Student, 2020 - Now"
                 additional="Advisor: Ali Farhadi"
@@ -250,6 +243,14 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="James Park"
+                title="Ph.D. Student, 2019 - 2025"
+                additional="Advisors: Ali Farhadi & Yejin Choi"
+                next="Research Scientist, Ai2"
+                image="/james-2.jpg"
+                website="https://jaesungpark96.github.io/"
+              />
               <Person
                 name="Matt Wallingford"
                 title="Ph.D. Student, 2019 - 2025"
