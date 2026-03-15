@@ -129,13 +129,6 @@ export default function Home() {
                 website="https://www.scottgeng.com/"
               />
               <Person
-                name="Cheng-Yu Hsieh"
-                title="Ph.D. Student, 2021 - Now"
-                additional="Advisors: Ranjay Krishna & Alex Ratner"
-                image="/cheng-yu-2.jpeg"
-                website="https://chengyuhsieh.github.io/"
-              />
-              <Person
                 name="Amita Kamath"
                 title="Ph.D. Student (UCLA), 2022 - Now"
                 additional="Advisors: Ranjay Krishna & Kai-Wei Chang"
@@ -243,6 +236,14 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Cheng-Yu Hsieh"
+                title="Ph.D. Student, 2021 - 2025"
+                additional="Advisors: Ranjay Krishna & Alex Ratner"
+                next="Research Scientist, Apple"
+                image="/cheng-yu-2.jpeg"
+                website="https://chengyuhsieh.github.io/"
+              />
               <Person
                 name="James Park"
                 title="Ph.D. Student, 2019 - 2025"
