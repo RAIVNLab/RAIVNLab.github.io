@@ -237,6 +237,13 @@ export default function Home() {
                   image="/ethan.png"
                   website="https://ethanlshen.github.io/"
               />
+              <Person
+                  name="Arjun Guru"
+                  title="Ph.D. Student, 2025 - Now"
+                  additional="Advisors: Ali Farhadi & Ranjay Krishna"
+                  image="/arjun.jpg"
+                  website="https://www.linkedin.com/in/arjunsguru/"
+              />
             </div>
           </div>
           <div className="px-5">
