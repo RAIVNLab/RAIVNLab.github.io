@@ -244,7 +244,7 @@ export default function Home() {
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
             <Person
                 name="Javon Hickmon"
-                title="MS Student, 2024 - Now"
+                title="M.S. Student, 2024 - Now"
                 additional="Advisor: Sarah Pratt"
                 image="/javon.jpg"
                 website="https://javon.dev/"
@@ -256,7 +256,7 @@ export default function Home() {
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
                 name="Cheng-Yu Hsieh"
-                title="Ph.D. Student, 2021 - 2025"
+                title="Ph.D., 2021 - 2025"
                 additional="Advisors: Ranjay Krishna & Alex Ratner"
                 next="Research Scientist, Apple"
                 image="/cheng-yu-2.jpeg"
@@ -264,7 +264,7 @@ export default function Home() {
               />
               <Person
                 name="James Park"
-                title="Ph.D. Student, 2019 - 2025"
+                title="Ph.D., 2019 - 2025"
                 additional="Advisors: Ali Farhadi & Yejin Choi"
                 next="Research Scientist, Ai2"
                 image="/james-2.jpg"
@@ -272,7 +272,7 @@ export default function Home() {
               />
               <Person
                 name="Matt Wallingford"
-                title="Ph.D. Student, 2019 - 2025"
+                title="Ph.D., 2019 - 2025"
                 additional="Advisor: Ali Farhadi"
                 next="Research Scientist, Ai2"
                 image="/matt.jpg"
@@ -280,7 +280,7 @@ export default function Home() {
               />
               <Person
                 name="Huong Ngo"
-                title="BS Student, 2023 - 2024"
+                title="B.S., 2023 - 2024"
                 additional="Advisor: Matt Deitke"
                 next="Predoctoral Young Investigator, Ai2"
                 image="/huong.jpg"
@@ -304,7 +304,7 @@ export default function Home() {
               />
               <Person
                 name="Aditya Kusupati"
-                title="Ph.D. Student, 2019 - 2024"
+                title="Ph.D., 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Sham Kakade"
                 next="Staff Research Scientist, Google DeepMind"
                 image="/aditya-2.jpg"
@@ -312,7 +312,7 @@ export default function Home() {
               />
               <Person
                 name="Gabriel Ilharco"
-                title="Ph.D. Student, 2019 - 2024"
+                title="Ph.D., 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Hanna Hajishirzi" 
                 next="Meta TBD Labs"
                 image="/gabriel.jpg"
@@ -320,7 +320,7 @@ export default function Home() {
               />
               <Person
                 name="Mitchell Wortsman"
-                title="Ph.D. Student, 2019 - 2023"
+                title="Ph.D., 2019 - 2023"
                 additional="Advisors: Ali Farhadi & Ludwig Schmidt" 
                 next="Member of Technical Staff, Anthropic"
                 image="/mitchell.jpg"
@@ -328,7 +328,7 @@ export default function Home() {
               />
               <Person
                 name="Aaron Walsman"
-                title="Ph.D. Student, 2015 - 2023"
+                title="Ph.D., 2015 - 2023"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
                 next="Research Fellow, Harvard Kempner Institute"
                 image="/aaron.jpg"
