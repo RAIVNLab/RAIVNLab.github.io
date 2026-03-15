@@ -239,13 +239,6 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Undergraduate/Masters Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
             <Person
-                name="Huong Ngo"
-                title="BS Student, 2023 - Now"
-                additional="Advisor: Matt Deitke"
-                image="/huong.jpg"
-                website="https://huongngo-8.github.io/"
-              />
-            <Person
                 name="Javon Hickmon"
                 title="MS Student, 2024 - Now"
                 additional="Advisor: Sarah Pratt"
@@ -264,6 +257,14 @@ export default function Home() {
                 next="Research Scientist, Ai2"
                 image="/matt.jpg"
                 website="https://mattwallingford.github.io/"
+              />
+              <Person
+                name="Huong Ngo"
+                title="BS Student, 2023 - 2024"
+                additional="Advisor: Matt Deitke"
+                next="Predoctoral Young Investigator, Ai2"
+                image="/huong.jpg"
+                website="https://huongngo-8.github.io/"
               />
               <Person
                 name="Matt Deitke"
