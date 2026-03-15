@@ -199,13 +199,6 @@ export default function Home() {
                 website="https://github.com/YashasSamaga"
               />
               <Person
-                name="Matt Wallingford"
-                title="Ph.D. Student, 2019 - Now"
-                additional="Advisor: Ali Farhadi"
-                image="/matt.jpg"
-                website="https://mattwallingford.github.io/"
-              />
-              <Person
                 name="Jieyu Zhang"
                 title="Ph.D. Student, 2020 - Now"
                 additional="Advisor: Ranjay Krishna & Alex Ratner"
@@ -264,6 +257,14 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Matt Wallingford"
+                title="Ph.D. Student, 2019 - 2025"
+                additional="Advisor: Ali Farhadi"
+                next="Research Scientist, Ai2"
+                image="/matt.jpg"
+                website="https://mattwallingford.github.io/"
+              />
               <Person
                 name="Matt Deitke"
                 title="Ph.D. Student, 2023 - 2024"
