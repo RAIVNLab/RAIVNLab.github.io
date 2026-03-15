@@ -111,7 +111,6 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Ph.D. Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
-              
               <Person
                 name="Jiafei Duan"
                 title="Ph.D. Student, 2022 - Now"
@@ -160,6 +159,13 @@ export default function Home() {
                 additional="Advisor: Ranjay Krishna & Dan Weld"
                 image="/zixian.jpg"
                 website="https://zixianma.github.io/"
+              />
+              <Person
+                name="Wisdom O. Ikezogwo"
+                title="PhD. Student, 2022 - Now"
+                additional="Advisors: Ranjay Krishna & Linda Shapiro"
+                image="/wisdom.png"
+                website="https://wisdomikezogwo.github.io/"
               />
               <Person
                 name="Mahtab Bigverdi"
