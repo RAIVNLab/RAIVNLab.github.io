@@ -284,7 +284,7 @@ export default function Home() {
                 name="Aditya Kusupati"
                 title="Ph.D. Student, 2019 - 2024"
                 additional="Advisors: Ali Farhadi & Sham Kakade"
-                next="Research Scientist, Google DeepMind"
+                next="Staff Research Scientist, Google DeepMind"
                 image="/aditya-2.jpg"
                 website="http://adityakusupati.com"
               />
@@ -316,7 +316,7 @@ export default function Home() {
                 name="Kuo-Hao Zeng"
                 title="Ph.D., 2018 - 2023"
                 additional="Advisors: Ali Farhadi & Roozbeh Mottaghi" 
-                next="Research Scientist, AI2"
+                next="Member of Technical Staff, Anthropic"
                 image="/hao.jpg"
                 website="https://kuohaozeng.github.io/"
               />
@@ -325,7 +325,7 @@ export default function Home() {
                 name="Rowan Zellers"
                 title="Ph.D., 2016 - 2022"
                 additional="Advisors: Ali Farhadi & Yejin Choi"
-                next="Research Scientist, OpenAI"
+                next="Member of Technical Staff, Thinking Machines Lab"
                 image="/rowan.jpg"
                 website="https://rowanzellers.com/"
               />
@@ -343,16 +343,16 @@ export default function Home() {
                 name="Maxwell (Max) Horton"
                 title="Ph.D., 2016 - 2022"
                 additional="Advisors: Ali Farhadi & Mohammad Rastegari"
-                next="Machine Learning Researcher, Apple"
+                next="Senior Machine Learning Researcher, Apple"
                 image="/max.jpg"
-                website="https://homes.cs.washington.edu/~mchorton/"
+                website="https://mchorton.com/"
               />
 
               <Person
                 name="Keunhong Park"
                 title="Ph.D., 2015 - 2022"
                 additional="Advisors: Ali Farhadi & Steve Seitz"
-                next="Research Scientist, World Labs"
+                next="Founding Member, World Labs"
                 image="/keunhong.jpg"
                 website="https://keunhong.com/"
               />
@@ -381,7 +381,7 @@ export default function Home() {
                 additional="Advisors: Ali Farhadi & Mohammad Rastegari"
                 next="Machine Learning Research Engineer, Apple"
                 image="/keivan.jpg"
-                website="https://homes.cs.washington.edu/~keivan/"
+                website="https://www.linkedin.com/in/keivan-alizadeh-vahid-0604a9154/"
               />
 
               <Person
@@ -390,14 +390,14 @@ export default function Home() {
                 additional="Advisor: Ali Farhadi"
                 next="Member of Technical Staff, OpenAI"
                 image="/hessam.jpg"
-                website="https://homes.cs.washington.edu/~hessam/"
+                website="https://www.linkedin.com/in/hessam-bagherinezhad-86b09677"
               />
 
               <Person
                 name="Daniel Gordon"
                 title="Ph.D., 2014 - 2020"
                 additional="Advisors: Ali Farhadi & Dieter Fox"
-                next="Research Scientist, Apple Maps 3D Vision"
+                next="Senior Machine Learning Engineer, Apple Maps 3D Vision"
                 image="/daniel.jpg"
                 website="https://danielgordon10.github.io/"
               />
@@ -406,7 +406,7 @@ export default function Home() {
                 name="Minjoon Seo"
                 title="Ph.D., 2013 - 2020"
                 additional="Advisors: Ali Farhadi & Hannaneh Hajishirzi"
-                next="Assistant Professor, KAIST AI"
+                next="Associate Professor, KAIST AI"
                 image="/minjoon.jpg"
                 website="https://seominjoon.github.io/"
               />
@@ -417,7 +417,7 @@ export default function Home() {
                 additional="Advisors: Ali Farhadi & Rajesh Rao"
                 next="Applied Scientist, Amazon"
                 image="/nancy_wang.jpg"
-                website="#"
+                website="https://www.linkedin.com/in/nancy-wang-phd-43667b53/"
               />
 
               <Person
@@ -426,7 +426,7 @@ export default function Home() {
                 additional="Advisor: Ali Farhadi"
                 next="Applied Scientist, ByteDance"
                 image="/junyuan.jpg"
-                website="#"
+                website="https://www.linkedin.com/in/junyuan-xie-846152a1/"
               />
 
               <Person
@@ -444,7 +444,7 @@ export default function Home() {
                 additional="Advisors: Ali Farhadi & Linda Shapiro"
                 next="Research Scientist, MetaAI"
                 image="/bilge.jpg"
-                website="#"
+                website="https://www.linkedin.com/in/bilge-basakcioglu-soran-phd-877b784/"
               />
 
               <Person
