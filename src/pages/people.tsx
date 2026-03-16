@@ -249,6 +249,13 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Undergraduate/Masters Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Kevin Zhang"
+                title="B.S./M.S. Student, 2023 - Now"
+                additional="Advisor: Wisdom Ikezogwo"
+                image="/kz-2.png"
+                website="https://kevin-m-zhang.github.io/"
+              />
             <Person
                 name="Javon Hickmon"
                 title="M.S. Student, 2024 - Now"
