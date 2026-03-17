@@ -109,6 +109,7 @@ export default function Home() {
             </div>
           </div>
           <div className="px-5">
+            {/* ORDERING: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <h3 className="h3 mb-4 mt-8">Ph.D. Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
@@ -248,6 +249,7 @@ export default function Home() {
           </div>
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Undergraduate/Masters Students</h3>
+            {/* ORDERING [same as PhD students]: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
                 name="Kevin Zhang"
@@ -274,6 +276,7 @@ export default function Home() {
           </div>
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
+            {/* ORDERING: 1. Most recent graduates (by graduation year) 2. Within the same graduation year, list those who started most recently first 3. If start and end years are the same, tiebreak alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
                 name="Cheng-Yu Hsieh"
