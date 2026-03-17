@@ -256,7 +256,14 @@ export default function Home() {
                 image="/kz-2.png"
                 website="https://kevin-m-zhang.github.io/"
               />
-            <Person
+              <Person
+                name="Madeline Brumley"
+                title="B.S./M.S. Student, 2024 - Now"
+                additional="Advisors: Cheng-Yu Hsieh & George Stoica"
+                image="/madeline.png"
+                website="https://www.linkedin.com/in/madeline-brumley-b4493b31b/"
+              />
+              <Person
                 name="Javon Hickmon"
                 title="M.S. Student, 2024 - Now"
                 additional="Advisor: Sarah Pratt"
