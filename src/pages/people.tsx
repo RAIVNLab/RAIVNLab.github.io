@@ -113,67 +113,11 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Ph.D. Students</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
-                name="Jiafei Duan"
-                title="Ph.D. Student, 2022 - Now"
-                additional="Advisors: Ranjay Krishna & Dieter Fox"
-                image="/jiafei.jpg"
-                website="https://duanjiafei.com/"
-              />
-              <Person
-                name="Ainaz Eftekhar"
-                title="Ph.D. Student, 2022 - Now"
-                additional="Advisors: Ali Farhadi & Ranjay Krishna"
-                image="/ainaz.jpg"
-                website="https://ainaz99.github.io/"
-              />
-              <Person
-                name="Xiang Fan"
-                title="Ph.D. Student, 2023 - Now"
-                additional="Advisor: Ranjay Krishna"
-                image="/xiang-2.jpg"
-                website="https://xiangfan.io/"
-              />
-              <Person
-                name="Scott Geng"
-                title="Ph.D. Student, 2023 - Now"
-                additional="Advisors: Ranjay Krishna & Pang Wei Koh"
-                image="/scott2.jpg"
-                website="https://www.scottgeng.com/"
-              />
-              <Person
-                name="Amita Kamath"
-                title="Ph.D. Student (UCLA), 2022 - Now"
-                additional="Advisors: Ranjay Krishna & Kai-Wei Chang"
-                image="/amita.jpg"
-                website="https://amitakamath.github.io/"
-              />
-              <Person
-                name="Nabil Omi"
-                title="Ph.D. Student, 2024 - Now"
-                additional="Advisor: Ali Farhadi"
-                image="/nabil.jpg"
-                website="https://scholar.google.com/citations?user=18iysQgAAAAJ&hl=en"
-              />
-              <Person
-                name="Zixian Ma"
-                title="Ph.D. Student, 2023 - Now"
-                additional="Advisor: Ranjay Krishna & Dan Weld"
-                image="/zixian.jpg"
-                website="https://zixianma.github.io/"
-              />
-              <Person
-                name="Wisdom O. Ikezogwo"
-                title="PhD. Student, 2022 - Now"
-                additional="Advisors: Ranjay Krishna & Linda Shapiro"
-                image="/wisdom.png"
-                website="https://wisdomikezogwo.github.io/"
-              />
-              <Person
-                name="Mahtab Bigverdi"
-                title="Ph.D. Student, 2022 - Now"
-                additional="Advisor: Ranjay Krishna & Linda Shapiro"
-                image="/mahtab.jpg"
-                website="https://mahtabbigverdi.github.io/"
+                name="Jieyu Zhang"
+                title="Ph.D. Student, 2020 - Now"
+                additional="Advisor: Ranjay Krishna & Alex Ratner"
+                image="/jieyu2.jpg"
+                website="https://jieyuz2.github.io/"
               />
               <Person
                 name="Sarah Pratt"
@@ -190,6 +134,13 @@ export default function Home() {
                 website="https://vkramanuj.github.io/"
               />
               <Person
+                name="George Stoica"
+                title="Ph.D Student (Georgia Tech), 2021 - Now"
+                additional="Advisors: Ranjay Krishna & Judy Hoffman"
+                image="/george.jpeg"
+                website="https://gstoica27.github.io/"
+              />
+              <Person
                 name="Reza Salehi"
                 title="Ph.D. Student, 2021 - Now"
                 additional="Advisors: Ali Farhadi & Hanna Hajishirzi"
@@ -197,18 +148,60 @@ export default function Home() {
                 website="https://homes.cs.washington.edu/~mrsalehi/"
               />
               <Person
-                name="Yashas Samaga"
-                title="Ph.D. Student, 2024 - Now"
-                additional="Advisor: Ali Farhadi"
-                image="/yashas.jpg"
-                website="https://github.com/YashasSamaga"
+                name="Ainaz Eftekhar"
+                title="Ph.D. Student, 2022 - Now"
+                additional="Advisors: Ali Farhadi & Ranjay Krishna"
+                image="/ainaz.jpg"
+                website="https://ainaz99.github.io/"
               />
               <Person
-                name="Jieyu Zhang"
-                title="Ph.D. Student, 2020 - Now"
-                additional="Advisor: Ranjay Krishna & Alex Ratner"
-                image="/jieyu2.jpg"
-                website="https://jieyuz2.github.io/"
+                name="Amita Kamath"
+                title="Ph.D. Student (UCLA), 2022 - Now"
+                additional="Advisors: Ranjay Krishna & Kai-Wei Chang"
+                image="/amita.jpg"
+                website="https://amitakamath.github.io/"
+              />
+              <Person
+                name="Jiafei Duan"
+                title="Ph.D. Student, 2022 - Now"
+                additional="Advisors: Ranjay Krishna & Dieter Fox"
+                image="/jiafei.jpg"
+                website="https://duanjiafei.com/"
+              />
+              <Person
+                name="Mahtab Bigverdi"
+                title="Ph.D. Student, 2022 - Now"
+                additional="Advisor: Ranjay Krishna & Linda Shapiro"
+                image="/mahtab.jpg"
+                website="https://mahtabbigverdi.github.io/"
+              />
+              <Person
+                name="Wisdom O. Ikezogwo"
+                title="PhD. Student, 2022 - Now"
+                additional="Advisors: Ranjay Krishna & Linda Shapiro"
+                image="/wisdom.png"
+                website="https://wisdomikezogwo.github.io/"
+              />
+              <Person
+                name="Scott Geng"
+                title="Ph.D. Student, 2023 - Now"
+                additional="Advisors: Ranjay Krishna & Pang Wei Koh"
+                image="/scott2.jpg"
+                website="https://www.scottgeng.com/"
+              />
+              <Person
+                name="Xiang Fan"
+                title="Ph.D. Student, 2023 - Now"
+                additional="Advisor: Ranjay Krishna"
+                image="/xiang-2.jpg"
+                website="https://xiangfan.io/"
+              />
+              <Person
+                name="Zixian Ma"
+                title="Ph.D. Student, 2023 - Now"
+                additional="Advisor: Ranjay Krishna & Dan Weld"
+                image="/zixian.jpg"
+                website="https://zixianma.github.io/"
               />
               <Person
                 name="Chenhao Zheng"
@@ -218,6 +211,13 @@ export default function Home() {
                 website="https://hellomuffin.github.io/"
               />
               <Person
+                name="Nabil Omi"
+                title="Ph.D. Student, 2024 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/nabil.jpg"
+                website="https://scholar.google.com/citations?user=18iysQgAAAAJ&hl=en"
+              />
+              <Person
                 name="Rustin Soraki"
                 title="Ph.D. Student, 2024 - Now"
                 additional="Advisor: Linda Shapiro & Ali Farhadi"
@@ -225,18 +225,11 @@ export default function Home() {
                 website="https://github.com/RustinS"
               />
               <Person
-                name="George Stoica"
-                title="Ph.D Student (Georgia Tech), 2021 - Now"
-                additional="Advisors: Ranjay Krishna & Judy Hoffman"
-                image="/george.jpeg"
-                website="https://gstoica27.github.io/"
-              />
-              <Person
-                  name="Ethan Shen"
-                  title="Ph.D. Student, 2025 - Now"
-                  additional="Advisor: Ali Farhadi"
-                  image="/ethan.png"
-                  website="https://ethanlshen.github.io/"
+                name="Yashas Samaga"
+                title="Ph.D. Student, 2024 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/yashas.jpg"
+                website="https://github.com/YashasSamaga"
               />
               <Person
                   name="Arjun Guru"
@@ -244,6 +237,13 @@ export default function Home() {
                   additional="Advisors: Ali Farhadi & Ranjay Krishna"
                   image="/arjun.jpg"
                   website="https://www.linkedin.com/in/arjunsguru/"
+              />
+              <Person
+                  name="Ethan Shen"
+                  title="Ph.D. Student, 2025 - Now"
+                  additional="Advisor: Ali Farhadi"
+                  image="/ethan.png"
+                  website="https://ethanlshen.github.io/"
               />
             </div>
           </div>
