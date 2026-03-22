@@ -259,6 +259,13 @@ export default function Home() {
                 website="https://kevin-m-zhang.github.io/"
               />
               <Person
+                name="Weikai Huang"
+                title="B.S. Student, 2023 - Now"
+                additional="Advisors: Jieyu Zhang & Zixian Ma"
+                image="/weikai.jpg"
+                website="https://weikaih04.github.io/"
+              />
+              <Person
                 name="Madeline Brumley"
                 title="B.S./M.S. Student, 2024 - Now"
                 additional="Advisors: Cheng-Yu Hsieh & George Stoica"
