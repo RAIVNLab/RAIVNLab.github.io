@@ -232,18 +232,18 @@ export default function Home() {
                 website="https://github.com/YashasSamaga"
               />
               <Person
-                  name="Arjun Guru"
-                  title="Ph.D. Student, 2025 - Now"
-                  additional="Advisors: Ali Farhadi & Ranjay Krishna"
-                  image="/arjun.jpg"
-                  website="https://www.linkedin.com/in/arjunsguru/"
+                name="Arjun Guru"
+                title="Ph.D. Student, 2025 - Now"
+                additional="Advisors: Ali Farhadi & Ranjay Krishna"
+                image="/arjun.jpg"
+                website="https://www.linkedin.com/in/arjunsguru/"
               />
               <Person
-                  name="Ethan Shen"
-                  title="Ph.D. Student, 2025 - Now"
-                  additional="Advisor: Ali Farhadi"
-                  image="/ethan.png"
-                  website="https://ethanlshen.github.io/"
+                name="Ethan Shen"
+                title="Ph.D. Student, 2025 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/ethan.png"
+                website="https://ethanlshen.github.io/"
               />
             </div>
           </div>
