@@ -259,6 +259,13 @@ export default function Home() {
             {/* ORDERING [same as PhD students]: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
+                name="Haoquan Fang"
+                title="B.S. Student, 2023 - Now"
+                additional="Advisor: Jiafei Duan"
+                image="/haoquan.jpg"
+                website="https://hq-fang.github.io/"
+              />
+              <Person
                 name="Kevin Zhang"
                 title="B.S./M.S. Student, 2023 - Now"
                 additional="Advisor: Wisdom Ikezogwo"
