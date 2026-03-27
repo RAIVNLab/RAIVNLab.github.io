@@ -245,6 +245,13 @@ export default function Home() {
                 image="/ethan.png"
                 website="https://ethanlshen.github.io/"
               />
+              <Person
+                name="Tanush Yadav"
+                title="Ph.D. Student, 2026 - Now"
+                additional="Advisor: Ali Farhadi"
+                image="/tanush.jpg"
+                website="https://tanu.sh/"
+              />
             </div>
           </div>
           <div className="px-5">
