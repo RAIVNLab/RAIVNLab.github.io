@@ -259,13 +259,6 @@ export default function Home() {
             {/* ORDERING [same as PhD students]: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
-                name="Haoquan Fang"
-                title="B.S. Student, 2023 - Now"
-                additional="Advisor: Jiafei Duan"
-                image="/haoquan.jpg"
-                website="https://hq-fang.github.io/"
-              />
-              <Person
                 name="Kevin Zhang"
                 title="B.S./M.S. Student, 2023 - Now"
                 additional="Advisor: Wisdom Ikezogwo"
@@ -299,6 +292,14 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             {/* ORDERING: 1. Most recent graduates (by graduation year) 2. Within the same graduation year, list those who started most recently first 3. If start and end years are the same, tiebreak alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Haoquan Fang"
+                title="B.S. Student, 2023 - 2026"
+                additional="Advisors: Ranjay Krishna & Ali Farhadi"
+                next="Ph.D. Student, Stanford University"
+                image="/haoquan.jpg"
+                website="https://hq-fang.github.io/"
+              />
               <Person
                 name="Cheng-Yu Hsieh"
                 title="Ph.D., 2021 - 2025"
