@@ -294,7 +294,7 @@ export default function Home() {
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
                 name="Haoquan Fang"
-                title="B.S. Student, 2023 - 2026"
+                title="B.S., 2023 - 2026"
                 additional="Advisors: Ranjay Krishna & Ali Farhadi"
                 next="Ph.D. Student, Stanford University"
                 image="/haoquan.jpg"
