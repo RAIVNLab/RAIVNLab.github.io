@@ -127,13 +127,6 @@ export default function Home() {
                 website="https://sarahpratt.github.io/"
               />
               <Person
-                name="Vivek Ramanujan"
-                title="Ph.D. Student, 2020 - Now"
-                additional="Advisor: Ali Farhadi"
-                image="/vivek.jpg"
-                website="https://vkramanuj.github.io/"
-              />
-              <Person
                 name="George Stoica"
                 title="Ph.D Student (Georgia Tech), 2021 - Now"
                 additional="Advisors: Ranjay Krishna & Judy Hoffman"
@@ -299,6 +292,14 @@ export default function Home() {
                 next="Ph.D. Student, Stanford University"
                 image="/haoquan.jpg"
                 website="https://hq-fang.github.io/"
+              />
+              <Person
+                name="Vivek Ramanujan"
+                title="Ph.D. Student, 2020 - 2026"
+                additional="Advisor: Ali Farhadi"
+                next="Member of Technical Staff, Anthropic"
+                image="/vivek.jpg"
+                website="https://vkramanuj.github.io/"
               />
               <Person
                 name="Cheng-Yu Hsieh"
