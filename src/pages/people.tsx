@@ -295,7 +295,7 @@ export default function Home() {
               />
               <Person
                 name="Vivek Ramanujan"
-                title="Ph.D. Student, 2020 - 2026"
+                title="Ph.D., 2020 - 2026"
                 additional="Advisor: Ali Farhadi"
                 next="Member of Technical Staff, Anthropic"
                 image="/vivek.jpg"
