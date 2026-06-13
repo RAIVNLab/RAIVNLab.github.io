@@ -213,9 +213,9 @@ export default function Home() {
               <Person
                 name="Rustin Soraki"
                 title="Ph.D. Student, 2024 - Now"
-                additional="Advisor: Ali Farhadi & Linda Shapiro"
-                image="/rustin.jpeg"
-                website="https://github.com/RustinS"
+                additional="Advisor: Ali Farhadi"
+                image="/rustin.jpg"
+                website="https://rustins.github.io"
               />
               <Person
                 name="Yashas Samaga"
