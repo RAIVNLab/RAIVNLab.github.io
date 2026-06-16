@@ -332,6 +332,7 @@ export default function Home() {
                 additional="Advisor: Ranjay Krishna"
                 next="Research Engineer, Ai2"
                 image="/peter-sushko.jpg"
+                website="https://peter-sushko.github.io/"
               />
               <Person
                 name="Huong Ngo"
