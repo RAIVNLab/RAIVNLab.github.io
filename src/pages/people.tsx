@@ -155,13 +155,6 @@ export default function Home() {
                 website="https://amitakamath.github.io/"
               />
               <Person
-                name="Jiafei Duan"
-                title="Ph.D. Student, 2022 - Now"
-                additional="Advisors: Ranjay Krishna & Dieter Fox"
-                image="/jiafei.jpg"
-                website="https://duanjiafei.com/"
-              />
-              <Person
                 name="Mahtab Bigverdi"
                 title="Ph.D. Student, 2022 - Now"
                 additional="Advisor: Ranjay Krishna & Linda Shapiro"
@@ -285,6 +278,14 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             {/* ORDERING: 1. Most recent graduates (by graduation year) 2. Within the same graduation year, list those who started most recently first 3. If start and end years are the same, tiebreak alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Jiafei Duan"
+                title="Ph.D., 2022 - 2026"
+                additional="Advisors: Ranjay Krishna & Dieter Fox"
+                next="Presidential Young Professor, National University of Singapore"
+                image="/jiafei.jpg"
+                website="https://duanjiafei.com/"
+              />
               <Person
                 name="Haoquan Fang"
                 title="B.S., 2023 - 2026"
