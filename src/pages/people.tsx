@@ -327,6 +327,14 @@ export default function Home() {
                 website="https://mattwallingford.github.io/"
               />
               <Person
+                name="Peter Sushko"
+                title="M.S., 2024 - 2025"
+                additional="Advisor: Ranjay Krishna"
+                next="Research Engineer, Ai2"
+                image="/peter-sushko.jpg"
+                website="https://peter-sushko.github.io/"
+              />
+              <Person
                 name="Huong Ngo"
                 title="B.S., 2023 - 2024"
                 additional="Advisor: Matt Deitke"
