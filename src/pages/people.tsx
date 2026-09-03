@@ -285,7 +285,7 @@ export default function Home() {
                 additional="Advisors: Ranjay Krishna & Dieter Fox"
                 next="Presidential Young Professor, National University of Singapore"
                 image="/jiafei.jpg"
-                website="https://duanjiafei.com/"
+                website="https://jiafei1224.github.io/"
               />
               <Person
                 name="Haoquan Fang"
