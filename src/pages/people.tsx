@@ -99,13 +99,6 @@ export default function Home() {
           <div className="px-5">
             <h3 className="h3 mb-4 mt-8">Postdocs</h3>
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
-              <Person
-                name="Zhongzheng (Jason) Ren"
-                title="Postdoctoral Researcher, 2025 - Now"
-                additional="Advisors: Ali Farhadi & Ranjay Krishna"
-                image="/jason.webp"
-                website="https://jason718.github.io/"
-              />
             </div>
           </div>
           <div className="px-5">
@@ -245,13 +238,6 @@ export default function Home() {
             {/* ORDERING [same as PhD students]: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
               <Person
-                name="Kevin Zhang"
-                title="B.S./M.S. Student, 2023 - Now"
-                additional="Advisor: Wisdom Ikezogwo"
-                image="/kz-2.png"
-                website="https://kevin-m-zhang.github.io/"
-              />
-              <Person
                 name="Weikai Huang"
                 title="B.S. Student, 2023 - Now"
                 additional="Advisors: Jieyu Zhang & Zixian Ma"
@@ -278,6 +264,21 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Alumni</h3>
             {/* ORDERING: 1. Most recent graduates (by graduation year) 2. Within the same graduation year, list those who started most recently first 3. If start and end years are the same, tiebreak alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
+              <Person
+                name="Zhongzheng (Jason) Ren"
+                title="Postdoctoral Researcher, 2025 - 2026"
+                additional="Advisors: Ali Farhadi & Ranjay Krishna"
+                next="Assistant Professor, University of North Carolina"
+                image="/jason.webp"
+                website="https://jason718.github.io/"
+              />
+              <Person
+                name="Kevin Zhang"
+                title="B.S./M.S., 2023 - 2026"
+                additional="Advisor: Wisdom Ikezogwo"
+                image="/kz-2.png"
+                website="https://kevin-m-zhang.github.io/"
+              />
               <Person
                 name="Jiafei Duan"
                 title="Ph.D., 2022 - 2026"
