@@ -225,6 +225,12 @@ export default function Home() {
                 website="https://ethanlshen.github.io/"
               />
               <Person
+                name="Jiawei Gu"
+                title="Ph.D. Student, 2026 - Now"
+                additional="Advisor: Ranjay Krishna"
+                image="/jiawei.png"
+              />
+              <Person
                 name="Tanush Yadav"
                 title="Ph.D. Student, 2026 - Now"
                 additional="Advisor: Ali Farhadi"
@@ -237,13 +243,6 @@ export default function Home() {
             <h3 className="h3 mb-4 mt-8">Undergraduate/Masters Students</h3>
             {/* ORDERING [same as PhD students]: 1. Seniorirty (by start year) 2. Break tiebreakers alphabetically */}
             <div className="grid md:grid-cols-5 md:gap-x-3 md:gap-y-3 sm:grid-cols-3 gap-3 grid-cols-2">
-              <Person
-                name="Weikai Huang"
-                title="B.S. Student, 2023 - Now"
-                additional="Advisors: Jieyu Zhang & Zixian Ma"
-                image="/weikai.jpg"
-                website="https://weikaih04.github.io/"
-              />
               <Person
                 name="Madeline Brumley"
                 title="B.S./M.S. Student, 2024 - Now"
@@ -276,6 +275,7 @@ export default function Home() {
                 name="Kevin Zhang"
                 title="B.S./M.S., 2023 - 2026"
                 additional="Advisor: Wisdom Ikezogwo"
+                next="M.D. Student, Harvard Medical School"
                 image="/kz-2.png"
                 website="https://kevin-m-zhang.github.io/"
               />
