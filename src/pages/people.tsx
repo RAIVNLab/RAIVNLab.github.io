@@ -237,6 +237,13 @@ export default function Home() {
                 image="/tanush.jpg"
                 website="https://tanu.sh/"
               />
+              <Person
+                name="Weikai Huang"
+                title="Ph.D. Student, 2026 - Now"
+                additional="Advisor: Ranjay Krishna"
+                image="/weikai.jpg"
+                website="https://weikaih04.github.io/"
+              />
             </div>
           </div>
           <div className="px-5">
