@@ -257,13 +257,6 @@ export default function Home() {
                 image="/madeline.png"
                 website="https://www.linkedin.com/in/madeline-brumley-b4493b31b/"
               />
-              <Person
-                name="Javon Hickmon"
-                title="M.S. Student, 2024 - Now"
-                additional="Advisor: Sarah Pratt"
-                image="/javon.jpg"
-                website="https://javon.dev/"
-              />
             </div>
           </div>
           <div className="px-5">
@@ -285,6 +278,14 @@ export default function Home() {
                 next="M.D. Student, Harvard Medical School"
                 image="/kz-2.png"
                 website="https://kevin-m-zhang.github.io/"
+              />
+              <Person
+                name="Javon Hickmon"
+                title="M.S., 2024 - 2026"
+                additional="Advisor: Sarah Pratt"
+                next="Ph.D. Student, University of Washington"
+                image="/javon.jpg"
+                website="https://javon.dev/"
               />
               <Person
                 name="Jiafei Duan"
