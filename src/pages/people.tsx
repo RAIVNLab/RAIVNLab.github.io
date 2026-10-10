@@ -244,6 +244,13 @@ export default function Home() {
                 image="/weikai.jpg"
                 website="https://weikaih04.github.io/"
               />
+              <Person
+                name="Ziqi Gao"
+                title="Ph.D. Student, 2026 - Now"
+                additional="Advisor: Ranjay Krishna"
+                image="/ziqi.png"
+                website="https://uwgzq.github.io/"
+              />
             </div>
           </div>
           <div className="px-5">
