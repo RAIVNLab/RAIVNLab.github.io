@@ -194,7 +194,7 @@ export default function Home() {
                 title="Ph.D. Student, 2024 - Now"
                 additional="Advisor: Ali Farhadi"
                 image="/nabil.jpg"
-                website="https://scholar.google.com/citations?user=18iysQgAAAAJ&hl=en"
+                website="https://www.nabo.dev/"
               />
               <Person
                 name="Rustin Soraki"
