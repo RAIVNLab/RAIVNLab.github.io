@@ -338,7 +338,7 @@ export default function Home() {
                 name="Matt Wallingford"
                 title="Ph.D., 2019 - 2025"
                 additional="Advisor: Ali Farhadi"
-                next="Research Scientist, Ai2"
+                next="Member of Technical Staff, Microsoft AI"
                 image="/matt.jpg"
                 website="https://mattwallingford.github.io/"
               />
